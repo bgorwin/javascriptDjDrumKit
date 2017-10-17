@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(djStand.jpg) bottom center;
+  background: url("djStand.jpg") bottom center;
   background-size: cover;
 }
 body,html {
@@ -12,7 +12,6 @@ body,html {
 .logo {
   text-align: center;
   color: white;
-  margin-top: 5%;
   font-size: 50px;
 }
 
